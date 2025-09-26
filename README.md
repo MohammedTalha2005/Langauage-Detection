@@ -1,4 +1,5 @@
 🌍 Language Detection & Translator
+
 A Streamlit web application that detects the language of user-input text and translates it into another language.
 The app supports six Indic languages along with English: Hindi, Tamil, Kannada, Telugu, and Malayalam.
 
